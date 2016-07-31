@@ -1,0 +1,8 @@
+extends /singles_layout
+include /helper
+
+block content
+  .area
+    include:markdown-it landing-page/singles_intro.md
+
+  +teaser-list(['couples', 'family', 'corporations'])
