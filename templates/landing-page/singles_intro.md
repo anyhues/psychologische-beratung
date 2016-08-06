@@ -1,14 +1,26 @@
 ## Coaching und psychologische Beratung
 
-Immer wieder kann es vorkommen, dass Einem das Gefühl beschleicht, dass das Leben sich momentan in einer Sackgasse  befindet. Dass etwas gehörig schief läuft, man weiß nur nicht was. Ich möchte Sie dabei begleiten ihre persönlichen und individuellen Lösungen für sich zu finden. Neue Sichtweisen und Handlungsspielräume zu erschließen.
+Neue Sichtweisen und neue Handlungsspielräume
 
-Oder aber Sie empfinden ihre  Beziehungen (beruflicher als privater Art) als belastend und kräftezehrend? Sie würden gerne im Nachhinein  unerledigte Dinge aus Ihrer Kindheit aufarbeiten? Ich möchte Sie unterstützen, sich von vorgelebten, überholten Beziehungsmustern zu lösen und neue Beziehungsstrategien entwickeln.
+Immer wieder kommen Menschen an einen Punkt, wo sie das Gefühl beschleicht,  ihr Leben würde sich in einer Sackgasse befinden. Dass etwas gehörig schief läuft, nur weiß man nicht genau, was eigentlich aus dem Lot geraten ist.
 
-### Mögliche Themen
+Oder es handelt sich um diverse „Baustellen“, und man hat keine Idee, wo und womit man eigentlich anfangen soll, um dem Leben wieder eine positive Richtung zu geben.
 
-* Konflikte, Streit
-* Belastende Lebenssituationen, wie Trennung und Scheidung,
-* Chronische Erkrankung von Familienmitgliedern
+Ich möchte Sie dabei begleiten, Ihre persönlichen, ganz individuellen Lösungen für sich zu finden, neue Sichtweisen und neue Handlungsspielräume für sich zu erschließen.
+
+Oder empfinden Sie Ihre beruflichen und/oder privaten Beziehungen belastend und kräftezehrend? Würden Sie gerne im Nachhinein unerledigte Dinge aus Ihrer Kindheit aufarbeiten?
+
+Ich möchte Sie dabei unterstützen, sich von vorgelebten, längst überholten Beziehungsmustern zu lösen und neue Beziehungsstrategien entwickeln.
+
+Mehr zu meiner [Arbeitsweise](http://www.praxis-niehues.de/#methods).
+
+
+Weitere, mögliche Lebens-Themen, die Sie angehen möchten:
+
+* (Wiederkehrende) Konflikte, Streit
+* Belastende Lebenssituationen, wie Trennung und Scheidung
+* Eigene chronische Erkrankung  oder von Familienmitgliedern
 * Stress und Burnout
 * Einsamkeit
 * Unzufriedenheit mit der eigenen Situation
+* Nicht gelebte oder unerfüllte Sexualität
