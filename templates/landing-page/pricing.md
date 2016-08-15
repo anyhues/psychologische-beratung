@@ -6,7 +6,7 @@ Sie vereinbaren mit mir ein kostenloses Erstgespräch um mich und meine Arbeitsw
 
 #### Weitere Sitzungen
 
-Eine Einzelsitzung dauert 60 Minuten und findet nach Vereinbarung alle 3-6 Wochen statt. Ausnahmen können bei Phasen akuter Krise bestehen, wenn ein kürzerer Zeitraum zwischen den Gesprächen sinnvoll erscheint.
+Eine Einzelsitzung dauert 60 Minuten und findet nach Vereinbarung alle 3-6 Wochen statt. Ausnahmen können bei Phasen akuter Krise bestehen, wenn ein kürzerer Zeitraum zwischen den Gesprächen sinnvoll erscheint.
 
 Coaching wird nicht von den Krankenkassen übernommen. Einzeltherapien können im Einzelfall mit privaten Krankenkassen abgerechnet werden.
 

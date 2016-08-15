@@ -14,6 +14,7 @@
   "author": "Andreas Niehues <andreas@niehu.es>",
   "license": "Copyright 2016 Andreas Niehues",
   "devDependencies": {
+    "gulp-sitemap": "^4.1.1",
     "standard": "^7.1.2"
   },
   "dependencies": {

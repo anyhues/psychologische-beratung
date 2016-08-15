@@ -1,6 +1,4 @@
-## Coaching und psychologische Beratung
-
-Neue Sichtweisen und neue Handlungsspielräume
+## Neue Sichtweisen und neue Handlungsspielräume
 
 Immer wieder kommen Menschen an einen Punkt, wo sie das Gefühl beschleicht,  ihr Leben würde sich in einer Sackgasse befinden. Dass etwas gehörig schief läuft, nur weiß man nicht genau, was eigentlich aus dem Lot geraten ist.
 
@@ -24,3 +22,4 @@ Weitere, mögliche Lebens-Themen, die Sie angehen möchten:
 * Einsamkeit
 * Unzufriedenheit mit der eigenen Situation
 * Nicht gelebte oder unerfüllte Sexualität
+* u.v.m.
