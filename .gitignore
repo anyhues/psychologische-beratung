@@ -3,3 +3,5 @@ dist/
 build/
 data/
 .publish/
+canonical-dist/
+canonical-build/

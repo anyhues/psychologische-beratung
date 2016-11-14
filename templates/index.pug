@@ -1,6 +1,11 @@
 extends /singles_layout
 include /helper
 
+block title
+  title Coaching und psychologische Beratung, Sexualberatung und Sexualpädagogik - Andreas Niehues
+  if (config.get('canonical'))
+    link(rel="canonical" href=COUPLES_HOST)
+
 block content
   .area
     include:markdown-it landing-page/singles_intro.md
@@ -24,3 +29,4 @@ block scripts
 
 block seo
   +meta_keywords('Einzelberatung', 'Einzeltherapie', 'Lebensberatung', 'Coaching', 'Pychotherapie', 'Psychologische Beratung', 'Therapie', 'Sexualtherapie', 'Sexualberatung', 'Systemisch', 'Systemisch-integrativ', 'systemische', 'Paar', 'Paare', 'Essen', 'Ruhrgebiet', 'Mülheim', 'Oberhausen', 'Duisburg', 'Gladbeck', 'Bocholt', 'Andreas', 'Andre', 'Andrea', 'Niehues', 'Niehus', 'Niehuis', 'Niehaus', 'Schwul', 'Homosexuell', 'Lesbisch', 'Affaire', 'Krise', 'Lebenskrise', 'Verlassen', 'Trennen', 'Trennung', 'Scheiden lassen', 'Scheidung', 'Tod', 'Chronisch krank', 'Krebs', 'Schwul', 'Lesbisch', 'Homosexuell', 'Lesbe', 'Geliebter', 'Geliebte', 'Prostitution', 'Prostituierte', 'Sexsucht', 'Sex', 'Geschlechtsverkehr', 'Lustlosigkeit', 'Erektion', 'Erektionsprobleme', 'Drexx', 'Pornokino', 'HIV', 'Aids', 'Tripper', 'Syphilis', 'Feigweizen', 'Sexuell übertragbare Krankheiten', 'Behindert', 'Behinderung', 'Kind', 'Kinder', 'Elternrolle', 'Geschwister', 'Bruder', 'Schwester', 'Depression', 'Burn-Out', 'Mobbing', 'Drogen', 'Alkohol', 'Familienaufstellungen', 'Familienaufstellung', 'Hellinger', 'Aufstellung ', 'Aufstellungen')
+  +meta_description('Unzufrieden mit Ihren momentanen Beziehungen? Lösen Sie sich von längst überholten Beziehungsmustern und gestalten Sie Ihre zwischenmenschlichen Beziehungen neu')

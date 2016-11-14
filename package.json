@@ -2,13 +2,14 @@
   "name": "niehues-singles",
   "version": "0.0.1",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp watch & gulp server",
     "build": "gulp build",
     "dist": "NODE_ENV=production gulp dist",
-    "deploy": "NODE_ENV=production gulp deploy",
+    "deploy": "NODE_ENV=production gulp deploy && NODE_ENV=production CANONICAL=true gulp deploy",
     "watch": "gulp watch"
   },
   "author": "Andreas Niehues <andreas@niehu.es>",
@@ -33,6 +34,6 @@
     "gulp-watch": "^4.3.8",
     "jstransformer-markdown-it": "^0.2.3",
     "live-server": "^1.0.0",
-    "niehues-assets": "file:///Users/falk/code/github.com/niehues/assets"
+    "niehues-assets": "0.0.9"
   }
 }

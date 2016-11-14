@@ -8,7 +8,14 @@ const sitemap = require('gulp-sitemap')
 
 const assets = require('niehues-assets')
 
-const config = require('./lib/config')
+const presets = {}
+
+if (process.env.CANONICAL) {
+  presets.buildPath = './canonical-build'
+  presets.distPath = './canonical-dist'
+}
+
+const config = require('./lib/config')(presets)
 config.load(assets.configs[config.get('env')])
 config.loadFile(path.resolve(__dirname, 'lib', 'environments', `${config.get('env')}.json`))
 
@@ -33,10 +40,19 @@ gulp.task('sitemap', () => {
 gulp.task('prod-build', sequence('dist', 'sitemap'))
 
 gulp.task('deploy', ['prod-build'], () => {
-  gulp.src([config.get('distGlob'), 'CNAME'])
-  .pipe(ghPages({
-    remoteUrl: 'git@github.com:anyhues-singles/anyhues-singles.github.io.git',
-    branch: 'master'
-  }).on('error', gutil.log))
+  const files = [config.get('distGlob')]
+  let options = {}
+
+  if (config.get('canonical')) {
+    options = {
+      remoteUrl: 'git@github.com:anyhues-singles/anyhues-singles.github.io.git',
+      branch: 'master'
+    }
+
+    files.push('CNAME')
+  }
+
+  gulp.src(files)
+  .pipe(ghPages(options).on('error', gutil.log))
   .pipe(print())
 })
