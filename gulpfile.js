@@ -50,6 +50,7 @@ gulp.task('deploy', ['prod-build'], () => {
     }
 
     files.push('CNAME')
+    files.push(assets.favIcon)
   }
 
   gulp.src(files)
